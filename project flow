@@ -1,0 +1,5 @@
+1.create app. py
+2. run as streamline run app.py
+3. create dir .github/workflows
+4. create yaml file at .github/workflows/
+5. create _test.py to test the deployment
